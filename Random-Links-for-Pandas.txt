@@ -1,0 +1,8 @@
+https://www.geeksforgeeks.org/how-to-plot-a-pandas-dataframe-with-matplotlib/
+https://stackabuse.com/python-with-pandas-dataframe-tutorial-with-examples/
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.size.html
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.axes.html
+https://matplotlib.org/stable/tutorials/introductory/usage.html#sphx-glr-tutorials-introductory-usage-py
+https://www.pythonpool.com/clear-plot-matplotlib/
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_pickle.html#pandas.read_pickle
+https://matplotlib.org/stable/tutorials/intermediate/legend_guide.html
